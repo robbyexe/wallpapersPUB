@@ -9,11 +9,11 @@ Public repo of wallpapers I like
 
   | | |
   | :---: | :---: |
-  | <img src="abstract/1740674431-442423-2337x1080.png" width="400"> | <img src="abstract/aeternum.png" width="400"> |
-  | <img src="abstract/chronography.png" width="400"> | <img src="abstract/etcetera_dark.png" width="400"> |
-  | <img src="abstract/gestalt_ultrawide.png" width="400"> | <img src="abstract/gxsc_1.png" width="400"> |
-  | <img src="abstract/iteration_02.png" width="400"> | <img src="abstract/soliloquy.png" width="400"> |
-  | <img src="abstract/zero.png" width="400"> | |
+  | <img src="Abstract/1740674431-442423-2337x1080.png" width="400"> | <img src="Abstract/aeternum.png" width="400"> |
+  | <img src="Abstract/chronography.png" width="400"> | <img src="Abstract/etcetera_dark.png" width="400"> |
+  | <img src="Abstract/gestalt_ultrawide.png" width="400"> | <img src="Abstract/gxsc_1.png" width="400"> |
+  | <img src="Abstract/iteration_02.png" width="400"> | <img src="Abstract/soliloquy.png" width="400"> |
+  | <img src="Abstract/zero.png" width="400"> | |
 
 </details>
 
@@ -23,9 +23,9 @@ Public repo of wallpapers I like
 
   | | |
   | :---: | :---: |
-  | <img src="art/japan.png" width="400"> | <img src="art/MountainBridge.png" width="400"> |
-  | <img src="art/nasa1.png" width="400"> | <img src="art/nasa2.png" width="400"> |
-  | <img src="art/polaroid.png" width="400"> | <img src="art/Waterfall.png" width="400"> |
+  | <img src="Art/japan.png" width="400"> | <img src="Art/MountainBridge.png" width="400"> |
+  | <img src="Art/nasa1.png" width="400"> | <img src="Art/nasa2.png" width="400"> |
+  | <img src="Art/polaroid.png" width="400"> | <img src="Art/Waterfall.png" width="400"> |
 
 </details>
 
@@ -35,9 +35,9 @@ Public repo of wallpapers I like
 
   | | |
   | :---: | :---: |
-  | <img src="nature/blueandpink.png" width="400"> | <img src="nature/Mars.png" width="400"> |
-  | <img src="nature/plants1.jpg" width="400"> | <img src="nature/plants2.jpg" width="400"> |
-  | <img src="nature/plants3.jpg" width="400"> | <img src="nature/snowmountain.jpg" width="400"> |
-  | <img src="nature/sunsetcolor.png" width="400"> | |
+  | <img src="Nature/blueandpink.png" width="400"> | <img src="Nature/Mars.png" width="400"> |
+  | <img src="Nature/plants1.jpg" width="400"> | <img src="Nature/plants2.jpg" width="400"> |
+  | <img src="Nature/plants3.jpg" width="400"> | <img src="Nature/snowmountain.jpg" width="400"> |
+  | <img src="Nature/sunsetcolor.png" width="400"> | |
 
 </details>
