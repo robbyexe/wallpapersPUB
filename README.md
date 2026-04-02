@@ -40,6 +40,8 @@ Public repo of wallpapers I like
   | <img src="Art/polaroid.png" width="400"> | <img src="Art/Waterfall.png" width="400"> |
   | **House Horizon** | **Tree with Moon** |
   | <img src="Art/househorizon.png" width="400"> | <img src="Art/treewithmoon.png" width="400"> |
+  | **Dark Mountain** ||
+  | <img src="Art/darkmountain.png" width="400"> ||
 
 </details>
 
