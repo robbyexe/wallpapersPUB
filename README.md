@@ -16,8 +16,14 @@ Public repo of wallpapers I like
   | <img src="Abstract/gestalt_ultrawide.png" width="400"> | <img src="Abstract/gxsc_1.png" width="400"> |
   | **Iteration 02** | **Soliloquy** |
   | <img src="Abstract/iteration_02.png" width="400"> | <img src="Abstract/soliloquy.png" width="400"> |
-  | **Zero** | |
-  | <img src="Abstract/zero.png" width="400"> | |
+  | **Zero** | **Burdened Memories** |
+  | <img src="Abstract/zero.png" width="400"> | <img src="Abstract/burdened_memories.png" width="400"> |
+  | **Exclusion** | **Gradient 1** |
+  | <img src="Abstract/exclusion.png" width="400"> | <img src="Abstract/gradient1.png" width="400"> |
+  | **Indigo** | **Pink** |
+  | <img src="Abstract/indigo.png" width="400"> | <img src="Abstract/pink.png" width="400"> |
+  | **Red and Yellow** | |
+  | <img src="Abstract/redandyellow.png" width="400"> | |
 
 </details>
 
@@ -32,6 +38,8 @@ Public repo of wallpapers I like
   | <img src="Art/nasa1.png" width="400"> | <img src="Art/nasa2.png" width="400"> |
   | **Polaroid** | **Waterfall** |
   | <img src="Art/polaroid.png" width="400"> | <img src="Art/Waterfall.png" width="400"> |
+  | **House Horizon** | **Tree with Moon** |
+  | <img src="Art/househorizon.png" width="400"> | <img src="Art/treewithmoon.png" width="400"> |
 
 </details>
 
