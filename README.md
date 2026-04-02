@@ -45,7 +45,7 @@ Public repo of wallpapers I like
   | **Plants 1** | **Plants 2** |
   | <img src="Nature/plants1.jpg" width="400"> | <img src="Nature/plants2.jpg" width="400"> |
   | **Plants 3** | **Snow Mountain** |
-  | <img src="Nature/plants3.jpg" width="400"> | <img src="Nature/snowmountain.jpg" width="400"> |
+  | <img src="Nature/plants3.jpg" width="400"> | <img src="Nature/snowymountain.jpg" width="400"> |
   | **Sunset Color** | |
   | <img src="Nature/sunsetcolor.png" width="400"> | |
 
